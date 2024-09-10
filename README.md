@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning counters, combinational logic circuits, cryptography, and Python.
 - 💞️ I’m looking to collaborate on  cryptography projects or Python-related tech developments.
 - 📫 How to reach me 
-- 😄 Pronouns: he/him
-             byte/bitself (Byte’s passionate about Python and bitself is diving into cryptography.)
+- 😄 Pronouns:byte/bitself (Byte’s passionate about Python and bitself is diving into cryptography.)
 - ⚡ Fun fact:  I can talk about combinational logic and cryptography, but I’m still trying to figure out how my coffee machine works in the morning!
 
 <!---
