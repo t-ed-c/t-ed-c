@@ -1,6 +1,6 @@
 <!-- Profile Header GIF (Alien Coding in Space) -->
 <p align="center">
-  <img align="center" alt="Alien Coding in Space" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Y4dW1wM3QxNzZidW1tOHltMWhkZnNxa3p6bnVkNzRmd3N1M3d6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v1PSPZqPc4kCE/giphy.gif" />
+  <img align="center" alt="Alien Coding in Space" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHR2MmM5ODk4ZTQ1MjJ5bmVkNjkxamJtajU5a3pwdnlsbjFsZ2tibCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6FWpozKBgrQD4MZwDC/giphy.gif" />
 </p>
 
 <h1 align="center">Hi there 👋, I’m @t-ed-c</h1>
