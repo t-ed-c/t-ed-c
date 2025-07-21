@@ -43,6 +43,7 @@
 ---
 
 ## 🧰 Languages & Tools
+![Top Langs by LOC](https://github-readme-stats.vercel.app/api/top-langs/?username=t-ed-c&layout=compact&langs_count=8&hide_title=true)
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
