@@ -98,7 +98,3 @@
   Keep mining knowledge and hashing ideas 💡🔗<br/>
   Thanks for stopping by!
 </p>
-
-<!---
-t-ed-c/t-ed-c is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
