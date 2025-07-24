@@ -39,8 +39,6 @@
 
 **Tech Stack:** `Python` `SHA-256` `Merkle Trees` `P2P Networking`
 
-### 🔐 Crypto Utilities
-*[Add your other notable projects here]*
 
 ---
 
