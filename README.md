@@ -22,25 +22,50 @@
 
 ## 🚀 Featured Projects
 
-### 🔗 Mini Blockchain
+### 🔗 Mini Blockchain (Completed)
 > A microchain project built with Python from the ground up
 
-🛠️ **Features Completed:**
+**Features:**
 - ✅ Custom block structure with cryptographic hashing  
 - 🔒 SHA-256 chaining & tamper detection  
 - ⛏️ Proof-of-Work mining  
 - 🔗 Chain validation  
 - 🧠 Difficulty adjustment  
-
-🚧 **In Progress:**
-- 🌐 P2P Network implementation
-- 📦 IPFS storage integration
+- 🌐 P2P Network  
+- 📦 IPFS storage integration  
 - 🏛️ Smart contract layer
 
 **Tech Stack:** `Python` `SHA-256` `Merkle Trees` `P2P Networking`
 
-
 ---
+
+### 🏛️ Smart Contract Engine DApp (In Progress)
+A decentralized application (DApp) being built on the Mini Blockchain for deploying and interacting with smart contracts.
+
+**Planned/Current Features:**
+- 🛡️ Secure sandboxed execution environment  
+- 🚀 Contract deployment & execution  
+- 🔍 Access to blockchain data  
+- 🧯 Safe execution with robust error handling  
+
+**API Endpoints:**
+- 📦 Contract deployment  
+- ⚡ Function execution  
+- 📃 Contract listing  
+
+**Frontend Interface:**
+- 📝 Contract deployment form  
+- 🕹️ Function call interface  
+- 📋 Contract listing table  
+- 📊 Result display  
+
+**Enhanced UI:**
+- 🎨 Improved styling  
+- 🧩 Better organization  
+- 🖱️ Interactive elements  
+
+*This DApp is under active development — stay tuned for updates as the platform evolves!*
+
 
 ## 📊 GitHub Analytics
 
@@ -107,7 +132,7 @@ Philosophy: African Philosophy Integration with Tech Ethics
 
 ---
 
-## 🎯 Current Learning Goals (2025)
+## 🎯 Current Learning Goals (2024)
 
 - [ ] **Advanced Cryptographic Protocols** - Zero-knowledge proofs, homomorphic encryption
 - [ ] **Solidity & Smart Contracts** - DeFi protocol development
