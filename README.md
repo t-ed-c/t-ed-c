@@ -132,12 +132,12 @@ Philosophy: African Philosophy Integration with Tech Ethics
 
 ---
 
-## 🎯 Current Learning Goals (2024)
+## 🎯 Current Learning Goals (2025)
 
 - [ ] **Advanced Cryptographic Protocols** - Zero-knowledge proofs, homomorphic encryption
 - [ ] **Solidity & Smart Contracts** - DeFi protocol development
-- [ ] **System Design** - Distributed systems architecture
-- [ ] **FPGA Programming** - Hardware-level digital system implementation
+- [x] **System Design** - Distributed systems architecture
+- [x] **FPGA Programming** - Hardware-level digital system implementation
 - [x] **Python Internals** - Bytecode optimization and CPython deep dive
 
 ---
