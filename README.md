@@ -1,200 +1,176 @@
 <p align="center">
-  <img align="center" alt="Alien Coding in Space" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHR2MmM5ODk4ZTQ1MjJ5bmVkNjkxamJtajU5a3pwdnlsbjFsZ2tibCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6FWpozKBgrQD4MZwDC/giphy.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ted&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Building%20systems%20for%20the%20African%20context&descSize=18&descAlignY=75" width="100%"/>
 </p>
-
-<h1 align="center">Hi there 👋, I'm @t-ed-c</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Blockchain+Developer;Cryptography+Enthusiast;Digital+Systems+Explorer;Python+Bytecode+Reader;Database+Manager" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=CS+Finalist+%40+DKUT+Nyeri;ML+for+Real-World+Problems;Backend+%26+API+Systems;Building+UniBot+%F0%9F%A4%96;Swahili-Speaking+Chatbots" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/t-ed-c">
+    <img src="https://komarev.com/ghpvc/?username=t-ed-c&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  </a>
 </p>
 
 ---
 
-## 🧬 About Me
+## 👋 Hi, I'm Ted Kimemia
 
-- 👀 Tech-curious about **cryptography**, **digital systems**, and **African philosophy**
-- 🌱 Currently learning **counters**, **combinational logic**, **blockchain**, and **Python internals**
-- 💞️ Open to collaborations on **crypto-security**, **Python tooling**, and blockchain experiments
-- 😄 Pronouns: `byte/bitself` — Byte's into Python and bitself's deciphering hash puzzles
-- ⚡ Fun fact: I understand Merkle trees, but not why my coffee machine needs a firmware update
+Fourth-year **Computer Science** student at **Dedan Kimathi University of Technology (DKUT)**, Nyeri, Kenya.
 
----
+I build practical systems that solve real problems I've experienced firsthand — starting with the communication gaps in my own department.
 
-## 🚧 Current Work (status)
-- 🛰️ Networking: HDLC protocol — core HDLC implementation completed; integrating HDLC networking with other components (in progress)
-- 🏛️ Smart Contract Engine DApp — under active development (see Projects below)
-- 🗄️ Database Management — complete; schema design, persistence, and integration with projects (contracts, chain state, and logs)
+```python
+class Ted Kimemia:
+    def __init__(self):
+        self.location = "Nyeri, Kenya 🇰🇪"
+        self.education = "BSc Computer Science @ DKUT (final year)"
+        self.languages = ["English", "Kiswahili", "Python", "SQL"]
+        self.mission = "Tech that works in low-resource environments"
 
----
-
-## 🚀 Featured Projects
-
-### 🔗 Mini Blockchain (Completed)
-> A microchain project built with Python from the ground up
-
-**Features:**
-- ✅ Custom block structure with cryptographic hashing  
-- 🔒 SHA-256 chaining & tamper detection  
-- ⛏️ Proof-of-Work mining  
-- 🔗 Chain validation  
-- 🧠 Difficulty adjustment  
-- 🌐 P2P Network  
-- 📦 IPFS storage integration  
-- 🏛️ Smart contract layer
-
-**Tech Stack:** `Python` `SHA-256` `Merkle Trees` `P2P Networking`
+    def current_focus(self):
+        return "UniBot — shipping my final-year project 🚀"
+```
 
 ---
 
-### 🏛️ Smart Contract Engine DApp (In Progress)
-A decentralized application (DApp) being built on the Mini Blockchain for deploying and interacting with smart contracts.
+## 🎓 Featured Project — UniBot
 
-**Planned/Current Features:**
-- 🛡️ Secure sandboxed execution environment  
-- 🚀 Contract deployment & execution  
-- 🔍 Access to blockchain data  
-- 🧯 Safe execution with robust error handling  
-- 🗄️ Database-backed storage for contracts, metadata & logs (completed)  
+> **A WhatsApp-based academic communication and student engagement monitoring system** for the DKUT Computer Science department — built to solve a communication gap I documented in my own department.
 
-**API Endpoints:**
-- 📦 Contract deployment  
-- ⚡ Function execution  
-- 📃 Contract listing  
+### ⚡ What it does
 
-**Frontend Interface:**
-- 📝 Contract deployment form  
-- 🕹️ Function call interface  
-- 📋 Contract listing table  
-- 📊 Result display  
+| | Feature |
+|---|---|
+| 📢 | Delivers lecturer & class-rep broadcasts to every student **individually**, with per-student delivery confirmation |
+| 💬 | Answers student queries about timetables, deadlines & fees in **English and Kiswahili/Sheng** |
+| ⚠️ | Detects scheduling conflicts (venue, lecturer, year-group clashes) **before** they affect students |
+| 🧠 | Flags disengaged students for academic advisors using **machine learning** |
 
-**Enhanced UI:**
-- 🎨 Improved styling  
-- 🧩 Better organization  
-- 🖱️ Interactive elements  
+### 🛠️ Built with
 
-*This DApp is under active development — stay tuned for updates as the platform evolves!*
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twilio_WhatsApp-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
+</p>
 
+🔐 **Security:** SHA-256 hashing + Fernet encryption for student data protection at rest
 
-## 📊 GitHub Analytics
+### 📊 Project Status
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=t-ed-c&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-ed-c&layout=compact&langs_count=8&theme=radical"/>
-</div>
+![Progress](https://img.shields.io/badge/Milestones-15%2F23_complete-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Live_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t-ed-c&theme=radical" alt="GitHub Streak"/>
-</div>
+<details>
+<summary><b>✅ Shipped (click to expand)</b></summary>
+
+- ✅ FastAPI backend — running, webhook live
+- ✅ Full registration flow — JOIN → student ID → email → OTP → year
+- ✅ Real DKUT timetable loaded (33 sessions)
+- ✅ Student query engine — timetable / deadline / fee questions
+- ✅ English + Kiswahili/Sheng language recognition
+- ✅ Broadcast system with DELIVERED & READ receipts on real phones
+- ✅ Per-student delivery confirmation + logging
+- ✅ Conflict detection — validated against a real timetable clash
+- ✅ **ML Model 1** — intent classifier (F1 **0.83**, beats 55% baseline)
+- ✅ **ML Model 2** — disengagement detector (100% detection, 0 false positives)
+- ✅ Phone number encryption at rest (Fernet + SHA-256)
+- ✅ Live on real WhatsApp (Twilio)
+- ✅ Real training data collection pipeline (Google Forms)
+
+</details>
+
+<details>
+<summary><b>🚧 Roadmap</b></summary>
+
+- ⬜ Cloud deployment on Railway (24/7 uptime)
+- ⬜ React admin dashboard for lecturers
+- ⬜ Production email OTP delivery
+- ⬜ Dedicated Kenyan WhatsApp number
+- ⬜ Retrain classifier on real student message data
+- ⬜ Department pilot with a live class (4–8 weeks)
+- ⬜ Final evaluation + load testing + report
+
+```
+Deploy → Kenyan number → Pilot with real class → Real ML results → Report
+```
+
+</details>
 
 ---
 
-## 🧠 Quick Tech Facts
+## 🛠️ Technical Interests
 
-- 🧩 I like reverse-engineering things (especially if it's encrypted)
-- 📖 I read bytecode for fun sometimes
-- 🎓 Always in learning mode — from circuits to Solidity
-- 💬 Ask me about **Python**, **SHA hashing**, or **block headers**
-- ☕ Fun fact: "I can describe a NAND gate... while undercaffeinated."
+- 🤖 **Machine learning** applied to real-world problems
+- ⚙️ **Backend systems** and API design
+- 🌍 **Building for the African context** — multilingual, offline-tolerant, low-resource-friendly
+- 🔐 Applied **cryptography** & data protection
 
 ---
 
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,sklearn,js,react,mysql,sqlite,git,linux,figma&perline=6" alt="Tech stack"/>
 </p>
 
-### 🔧 Specialized Tools & Concepts
-```
-Cryptography: SHA-256, Merkle Trees, Hash Functions, Digital Signatures
-Blockchain: Proof-of-Work, Chain Validation, Block Mining, P2P Networks
-Systems: Digital Logic, Combinational Circuits, Binary Operations
-Databases: SQL, MySQL, PostgreSQL, SQLite, schema design, migrations, indexing, replication
-Philosophy: African Philosophy Integration with Tech Ethics
-```
-
 ---
 
-## 🎯 Current Learning Goals (2025)
+## 📊 GitHub Analytics
 
-- [ ] **Advanced Cryptographic Protocols** - Zero-knowledge proofs, homomorphic encryption
-- [ ] **Solidity & Smart Contracts** - DeFi protocol development
-- [x] **System Design** - Distributed systems architecture
-- [x] **FPGA Programming** - Hardware-level digital system implementation
-- [x] **Python Internals** - Bytecode optimization and CPython deep dive
-- [x] **Database Management** - schema design, indexing, replication, and persistence for projects
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=t-ed-c&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-ed-c&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t-ed-c&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-## 📈 Contribution Activity
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=t-ed-c&theme=radical&no-frame=true&column=7" alt="Trophies"/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=t-ed-c&theme=react-dark&hide_border=true" width="100%"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=t-ed-c&theme=react-dark&hide_border=true" width="100%"/>
+</div>
+
+<!-- Snake animation — requires the workflow file (see snake.yml) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/t-ed-c/t-ed-c/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
 
 ---
 
 ## ✨ Philosophy & Code
 
-> <div align="center" style="padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; color: white;">
-> <i>"Your blocks are immutable. Your ideas shouldn't be."</i><br/>
-> <small>— Bridging African philosophical wisdom with digital innovation</small>
+> <div align="center">
+> <i>"Technology should meet people where they already are — for my campus, that's WhatsApp."</i><br/>
+> <small>— Building African solutions on African infrastructure</small>
 > </div>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Reach Me
 
 <div align="center">
   <a href="https://github.com/t-ed-c" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:ted.kimemia23@students.dkut.ac.ke" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </div>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
 
 <p align="center">
-  Keep mining knowledge and hashing ideas 💡🔗<br/>
-  <em>Building the future, one block at a time</em>
+  <em>Solving real problems, one message at a time 💬🇰🇪</em>
 </p>
 
 <!---
-t-ed-c/t-ed-c is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+t-ed-c/t-ed-c is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 --->
